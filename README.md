@@ -1,5 +1,7 @@
 _Aeonix_WeatherAI_Last updated: June 4, 2025 – Version 0.9 (Research Phase)_
 
+_Phase two of Aeonix’s research is anticipated to begin around July 1, 2025, with a focus on expanding type classifications and integrating predictive model scoring._
+
 # Aeonix WeatherAI
 
 **AI-Powered Tornado Classification, Tracking, and Real-Time Risk Detection**
@@ -50,6 +52,10 @@ The machine learning and inference engine at the center of the Aeonix system. Co
 - Use trained models to detect early tornado formation signatures
 - Score, classify, and escalate evolving storm zones
 - Support real-time alert overlays and predictive risk mapping
+
+**🔬 Want to go deeper?**  
+Read the [full classification logic and update logs →](docs/RESEARCH.md)
+
 
 ---
 

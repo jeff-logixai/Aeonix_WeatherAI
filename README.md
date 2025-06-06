@@ -79,3 +79,8 @@ The structured data backend of Aeonix. Archive stores enriched tornado GeoJSONs,
 - Store spatially-indexed weather variables by timestamp and location
 - Maintain enriched tornado event history for research and training
 - Feed machine learning pipelines and map historical tornado types
+
+---
+### 📜 License
+This project is shared for demonstration and educational purposes only.  
+See [LICENSE.md](LICENSE.md) for full usage rights and restrictions.
